@@ -32,10 +32,3 @@ Simply type your questions or messages in the chat interface, and the AI will re
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create an issue or submit a pull request. Let's make this project even better together! 🌈
-
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-  
