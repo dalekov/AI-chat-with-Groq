@@ -33,12 +33,6 @@ Simply type your questions or messages in the chat interface, and the AI will re
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create an issue or submit a pull request. Let's make this project even better together! 🌈
 
-## 📫 Contact
-
-For questions or feedback, reach out to me:
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ## 📝 License
 
